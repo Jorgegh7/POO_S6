@@ -1,0 +1,7 @@
+Nombre,Rut,Titulo Libro,Autor,Género,ISBN,2025-06-27
+Jorge Gallardo,16.586.204-k,Amor,Isabel Allende,Ensayo,978-8401242397,2025-06-27
+Jorge Gallardo,16.586.204-k,Rayuela,Julio Cortázar,Novela experimental,978-8420471549,2025-06-27
+J j,11.111.111-1,Rayuela,Julio Cortázar,Novela experimental,978-8420471549,2025-06-27
+
+
+Jorge Gallardo,16.586.204-k,La guaracha del Macho Camacho,Luis Rafael Sánchez,Novela,978-9681601241,2025-06-28
