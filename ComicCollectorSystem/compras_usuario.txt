@@ -1,0 +1,3 @@
+Jorge Gallardo,16.586.204-k,Los Vengadores,Stan Lee,Superhéroes,9788498856798,2025-06-30,15000,1
+Jorge Gallardo,16.586.204-k,Los Vengadores,Stan Lee,Superhéroes,9788498856798,2025-06-30,15000,5
+Jorge Gallardo,16.586.204-k,Monster,Naoki Urasawa,Thriller,9788416889297,2025-06-30,14500,5

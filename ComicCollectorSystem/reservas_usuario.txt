@@ -1,0 +1,2 @@
+Nombre,Rut,Titulo Libro,Autor,Género,ISBN,2025-06-27
+Jorge Gallardo,16.586.204-k,Los Vengadores,Stan Lee,Superhéroes,9788498856798,2025-06-30,15000,5

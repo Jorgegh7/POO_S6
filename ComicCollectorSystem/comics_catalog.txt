@@ -1,0 +1,107 @@
+﻿El Asombroso Hombre Araña,Stan Lee,Superhéroes,9788498856781,Disponible,12500,5
+X-Men Días del Futuro Pasado,Chris Claremont,Superhéroes,9788498856804,Disponible,18000,5
+Iron Man Extremis,Warren Ellis,Superhéroes,9788498856811,Disponible,16500,5
+Los Cuatro Fantásticos,Stan Lee,Superhéroes,9788498856828,Disponible,14000,5
+Capitán América El Soldado del Invierno,Ed Brubaker,Superhéroes,9788498856835,Disponible,17000,5
+Thor Ragnarok,Walter Simonson,Superhéroes,9788498856842,Disponible,15500,5
+Hulk Planeta Hulk,Greg Pak,Superhéroes,9788498856859,Disponible,19000,5
+Daredevil El Hombre Sin Miedo,Frank Miller,Superhéroes,9788498856866,Disponible,16000,5
+Doctor Strange El Juramento,Brian K. Vaughan,Superhéroes,9788498856873,Disponible,14500,5
+Guardianes de la Galaxia,Dan Abnett,Superhéroes,9788498856880,Disponible,17500,5
+Los Defensores,Roy Thomas,Superhéroes,9788498856897,Disponible,13500,5
+Capitana Marvel,Kelly Sue DeConnick,Superhéroes,9788498856903,Disponible,15800,5
+Black Widow Viuda Roja,Nathan Edmondson,Superhéroes,9788498856910,Disponible,14200,5
+Ant-Man Segunda Oportunidad,Nick Spencer,Superhéroes,9788498856927,Disponible,13800,5
+Hawkeye Mi Vida como Arma,Matt Fraction,Superhéroes,9788498856934,Disponible,16800,5
+Los Vengadores Guerra del Infinito,Jim Starlin,Superhéroes,9788498856941,Disponible,22000,5
+X-Men Phoenix Saga,Chris Claremont,Superhéroes,9788498856958,Disponible,20000,5
+Wolverine Origen,Paul Jenkins,Superhéroes,9788498856965,Disponible,18500,5
+Spider-Man Kraven's Last Hunt,J.M. DeMatteis,Superhéroes,9788498856972,Disponible,17200,5
+Punisher Bienvenido a Casa Frank,Garth Ennis,Superhéroes,9788498856989,Disponible,19500,5
+Deadpool El Mercenario Bocazas,Joe Kelly,Superhéroes,9788498856996,Disponible,16300,5
+Los Inhumanos Génesis,Paul Jenkins,Superhéroes,9788498857009,Disponible,15200,5
+Silver Surfer Parábola,Stan Lee,Superhéroes,9788498857016,Disponible,18800,5
+Ghost Rider Espíritu de Venganza,Jason Aaron,Superhéroes,9788498857023,Disponible,17800,5
+Fantastic Four 1234,Grant Morrison,Superhéroes,9788498857030,Disponible,16600,5
+Moon Knight De la Muerte,Warren Ellis,Superhéroes,9788498857047,Disponible,15400,5
+She-Hulk Juzgado Individual,Dan Slott,Superhéroes,9788498857054,Disponible,14700,5
+Nova Origen,Jeph Loeb,Superhéroes,9788498857061,Disponible,13900,5
+Beta Ray Bill Camino de Trueno,Daniel Warren Johnson,Superhéroes,9788498857078,Disponible,16100,5
+Elektra Asesina,Frank Miller,Superhéroes,9788498857085,Disponible,17400,5
+Iron Fist El Arma Viviente,Ed Brubaker,Superhéroes,9788498857092,Disponible,15600,5
+Luke Cage Héroe de Alquiler,Brian Michael Bendis,Superhéroes,9788498857108,Disponible,14300,5
+Batman Año Uno,Frank Miller,Superhéroes,9788417821012,Disponible,16500,5
+Superman All Star,Grant Morrison,Superhéroes,9788417821029,Disponible,18000,5
+Wonder Woman Dioses y Mortales,George Pérez,Superhéroes,9788417821036,Disponible,17000,5
+Justice League Origin,Geoff Johns,Superhéroes,9788417821043,Disponible,19500,5
+The Flash Renacimiento,Geoff Johns,Superhéroes,9788417821050,Disponible,15500,5
+Green Lantern Emerald Twilight,Ron Marz,Superhéroes,9788417821067,Disponible,16800,5
+Aquaman Trono de Atlantis,Geoff Johns,Superhéroes,9788417821074,Disponible,17200,5
+Batman La Broma Asesina,Alan Moore,Superhéroes,9788417821081,Disponible,22000,5
+Superman Reino Venidero,Mark Waid,Superhéroes,9788417821098,Disponible,20500,5
+Green Arrow Año Uno,Andy Diggle,Superhéroes,9788417821104,Disponible,14800,5
+Cyborg La Amenaza de los Aliens,David Walker,Superhéroes,9788417821111,Disponible,13600,5
+Teen Titans Los Terroríficos Titanes,Geoff Johns,Superhéroes,9788417821128,Disponible,16200,5
+Batgirl Año Uno,Chuck Dixon,Superhéroes,9788417821135,Disponible,15300,5
+Nightwing Año Uno,Chuck Dixon,Superhéroes,9788417821142,Disponible,14900,5
+Robin Año Uno,Chuck Dixon,Superhéroes,9788417821159,Disponible,13700,5
+Harley Quinn Preludio,Amanda Conner,Superhéroes,9788417821166,Disponible,17600,5
+The Joker Amante del Crimen,Brian Azzarello,Superhéroes,9788417821173,Disponible,19800,5
+Catwoman Cuando en Roma,Jeph Loeb,Superhéroes,9788417821180,Disponible,16400,5
+Poison Ivy Crecimiento,Amy Chu,Superhéroes,9788417821197,Disponible,15100,5
+Birds of Prey De la Muerte al Amanecer,Gail Simone,Superhéroes,9788417821203,Disponible,17900,5
+Zatanna Noche de Espíritus,Paul Dini,Superhéroes,9788417821210,Disponible,16700,5
+Swamp Thing La Anatomía Lección,Alan Moore,Horror,9788417821227,Disponible,21000,5
+Constantine Fuego Infernal,Jamie Delano,Horror,9788417821234,Disponible,18700,5
+Sandman Preludios y Nocturnos,Neil Gaiman,Fantasía,9788417821241,Disponible,25000,5
+Watchmen,Alan Moore,Superhéroes,9788417821258,Disponible,28000,5
+V de Vendetta,Alan Moore,Ciencia Ficción,9788417821265,Disponible,23000,5
+The Killing Joke,Alan Moore,Superhéroes,9788417821272,Disponible,19000,5
+Batman El Regreso del Caballero Oscuro,Frank Miller,Superhéroes,9788417821289,Disponible,24000,5
+Superman Hijo Rojo,Mark Millar,Superhéroes,9788417821296,Disponible,22500,5
+Lobo Retrato de un Bastich,Keith Giffen,Ciencia Ficción,9788417821302,Disponible,17300,5
+Shazam El Poder de la Esperanza,Paul Dini,Superhéroes,9788417821319,Disponible,15700,5
+Plastic Man En Rampage,Kyle Baker,Superhéroes,9788417821326,Disponible,14400,5
+The Atom Su Nombre es Adam,Gail Simone,Superhéroes,9788417821333,Disponible,13800,5
+Firestorm La Furia Nuclear,Dan Jurgens,Superhéroes,9788417821340,Disponible,16000,5
+Blue Beetle Shellshocked,Keith Giffen,Superhéroes,9788417821357,Disponible,15200,5
+Booster Gold 52 Pickup,Geoff Johns,Superhéroes,9788417821364,Disponible,14600,5
+Dragon Ball,Akira Toriyama,Shonen,9788416889075,Disponible,8500,5
+Naruto,Masashi Kishimoto,Shonen,9788416889082,Disponible,9000,5
+One Piece,Eiichiro Oda,Shonen,9788416889099,Disponible,8800,5
+Attack on Titan,Hajime Isayama,Seinen,9788416889105,Disponible,10500,5
+Death Note,Tsugumi Ohba,Thriller,9788416889112,Disponible,9500,5
+Fullmetal Alchemist,Hiromu Arakawa,Shonen,9788416889129,Disponible,9200,5
+Demon Slayer,Koyoharu Gotouge,Shonen,9788416889136,Disponible,8700,5
+My Hero Academia,Kohei Horikoshi,Shonen,9788416889143,Disponible,8900,5
+Tokyo Ghoul,Sui Ishida,Seinen,9788416889150,Disponible,10200,5
+Hunter x Hunter,Yoshihiro Togashi,Shonen,9788416889167,Disponible,10800,5
+Bleach,Tite Kubo,Shonen,9788416889174,Disponible,9300,5
+One Punch Man,ONE,Seinen,9788416889181,Disponible,8600,5
+Mob Psycho 100,ONE,Seinen,9788416889198,Disponible,8400,5
+Jujutsu Kaisen,Gege Akutami,Shonen,9788416889204,Disponible,9100,5
+Chainsaw Man,Tatsuki Fujimoto,Seinen,9788416889211,Disponible,10600,5
+Spy x Family,Tatsuya Endo,Comedia,9788416889228,Disponible,8300,5
+Dr. Stone,Riichiro Inagaki,Shonen,9788416889235,Disponible,8800,5
+Promised Neverland,Kaiu Shirai,Thriller,9788416889242,Disponible,9400,5
+Akira,Katsuhiro Otomo,Seinen,9788416889259,Disponible,15000,5
+Ghost in the Shell,Masamune Shirow,Seinen,9788416889266,Disponible,12500,5
+Berserk,Kentaro Miura,Seinen,9788416889273,Disponible,11800,5
+Vagabond,Takehiko Inoue,Seinen,9788416889280,Disponible,13200,5
+Monster,Naoki Urasawa,Thriller,9788416889297,Disponible,14500,5
+20th Century Boys,Naoki Urasawa,Thriller,9788416889303,Disponible,13800,5
+Pluto,Naoki Urasawa,Seinen,9788416889310,Disponible,12200,5
+JoJo's Bizarre Adventure,Hirohiko Araki,Shonen,9788416889327,Disponible,10400,5
+Slam Dunk,Takehiko Inoue,Deportes,9788416889334,Disponible,9700,5
+Yu Yu Hakusho,Yoshihiro Togashi,Shonen,9788416889341,Disponible,9600,5
+Rurouni Kenshin,Nobuhiro Watsuki,Shonen,9788416889358,Disponible,9800,5
+Inuyasha,Rumiko Takahashi,Shonen,9788416889365,Disponible,8900,5
+Ranma 1/2,Rumiko Takahashi,Comedia,9788416889372,Disponible,8700,5
+Maison Ikkoku,Rumiko Takahashi,Romance,9788416889389,Disponible,9200,5
+Urusei Yatsura,Rumiko Takahashi,Comedia,9788416889396,Disponible,8500,5
+Cowboy Bebop,Nanten Yutaka,Seinen,9788416889402,Disponible,11000,5
+Trigun,Yasuhiro Nightow,Seinen,9788416889419,Disponible,10700,5
+Hellsing,Kohta Hirano,Seinen,9788416889426,Disponible,11500,5
+Black Lagoon,Rei Hiroe,Seinen,9788416889433,Disponible,10900,5
+Los Vengadores,Stan Lee,Superhéroes,9788498856798,Disponible,15000,4
+
